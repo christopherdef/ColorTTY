@@ -10,7 +10,6 @@ cz.print_all_colors()
 #### \# Print colored text
 ```py
 # note: cz(...) == cz.color_text(...)
-
 print(
     cz.color_text('red', 'text'),
     cz('y', 'text'),
